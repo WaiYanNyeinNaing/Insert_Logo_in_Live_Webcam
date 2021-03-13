@@ -9,6 +9,7 @@
 
 # RUN Webcam
 - python face_detect_live.py        #face detection + overlay in webcam
+- python logo_in_cam.py             #insert logo in live webcam
 
 # Contact
 waiyan.nn18@gmail.com
